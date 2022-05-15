@@ -1,1 +1,4 @@
-cokowlwiek
+komendy do gita 
+push 
+pull
+commit add
