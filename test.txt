@@ -1,1 +1,1 @@
-zobaczmy czy to pojawi sie na gicie
+push pull add commit
