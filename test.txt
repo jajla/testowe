@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 cos innego
-=======
-bala bala a asd
->>>>>>> 90eb7c85dbbe9a5a3b725bf90f01c2911c4e4bda
