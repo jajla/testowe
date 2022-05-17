@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sprobojemuy
+=======
+ciul z tym
+>>>>>>> f404a63bd07b530f8f0bd0865770aabefe9f90ac
